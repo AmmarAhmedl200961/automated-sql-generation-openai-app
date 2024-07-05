@@ -155,10 +155,5 @@ if st.session_state.api_key_valid:
                 results = execute_sql(db_name, sql_query)
                 st.write("Query Results:")
                 st.write(results)
-
-                # Execute the optimized SQL
-                optimized_results = execute_sql(db_name, optimized_sql)
-                st.write("Optimized Query Results:")
-                st.write(optimized_results)
             else:
                 st.warning("Please enter a question.")
