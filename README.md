@@ -1,0 +1,2 @@
+# automated-sql-generation-openai-app
+ This Streamlit application, titled "AI-Powered SQL Query Generator," leverages the capabilities of OpenAI's GPT models to assist users in generating, optimizing, and executing SQL queries based on natural language inputs. It provides an intuitive interface for users to input questions in natural language, which are then translated into SQL queries. These queries can be further optimized for performance before being executed against a SQLite database.
