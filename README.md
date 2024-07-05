@@ -7,7 +7,7 @@
 ![Python version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/github/license/AmmarAhmedl200961/automated-sql-generation-openai-app)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://automated-sql-generation-openai-app-hxvk7dtbsp6v8pgnclk6f7.streamlit.app/)
 
 
 This Streamlit app processes CSV data, generates SQL queries using OpenAI's API, and provides optimized SQL queries. The schema for the app is static and hardcoded to use an "employees" table.
